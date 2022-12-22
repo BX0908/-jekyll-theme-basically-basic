@@ -17,8 +17,9 @@ lang: en-US
 title: My Awesome Site
 email:
 description:
-baseurl: "LMling"# the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/BX0908"
+# the optional subpath of your site, e.g. "/blog"
+url: "http://BX0908.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name:
   twitter:
@@ -37,7 +38,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
