@@ -21,11 +21,11 @@ baseurl: "/BX0908"
 # the optional subpath of your site, e.g. "/blog"
 url: "http://BX0908.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: LiMengLing
+  name: "LiMengLing"
   twitter:
   picture:
 twitter_username:
-github_username:
+github_username: BX0908
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
