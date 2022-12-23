@@ -2,7 +2,7 @@
 layout: home
 ---
 <style>
-header.intro{
-     display:none;
+.intro-title{
+    display: none;
 }
 </style>
