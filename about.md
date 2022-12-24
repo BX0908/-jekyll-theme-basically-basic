@@ -14,7 +14,7 @@ title: 关于我
 
 ### 个人项目
 
-##### [项目1][<font>第一份个人简历制作</font>]( https://lmling.gitee.io/resume_1)
+##### [项目1][<font>第一份个人简历制作</font>]( https://bx0908.gitee.io/resume_1)
 * 技术栈：HTML5+Gitee  pages+Github desktop
 * 完成第一份个人简介的制作
 * 了解到如何fork文件到本地仓库，经历"更换头像-添加css样式-元数据改变-添加HTML5标签-改变页面布局"等一系列工作，在不断琢磨中，完成第一份个人简介的修改。
