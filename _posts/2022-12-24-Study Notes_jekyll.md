@@ -3,9 +3,9 @@ layout: page
 title: 新手也可以搭建属于自己的个人网站
 excerpt_separator: "<!--more-->"
 categories:
-     - 网站设计
+     - 学习笔记
 ---
-标签: 网站设计 Jekyll Markdown
+标签: Jekyll Markdown
 <!--more-->
 
 ## 怎么实现Github+Jekyll 搭建个人网站呢？
