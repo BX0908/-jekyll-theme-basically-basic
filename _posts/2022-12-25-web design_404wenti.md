@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 在Jekyll搭建经常出现各种404报错？
-date: 2022-12-24
+date: 2022-12-25
 excerpt_separator: "<!--more-->"
 categories:
      - 网站设计
