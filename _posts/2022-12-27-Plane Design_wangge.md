@@ -10,7 +10,7 @@ categories:
 利用格子作为参考以构建秩序性版面的设计手法
 
 <!--more-->
-###网格的分类
+### 网格的分类
 ## 通栏网格
 ![](/assets/images/Plane Design/通栏.png)
 
