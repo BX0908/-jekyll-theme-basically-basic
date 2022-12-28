@@ -296,7 +296,7 @@ tags:
 	    }
 	  }
   </style>
-</head>
+
 <body>
   <section class="turntable">
     <div class="plinth">
