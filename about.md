@@ -1,6 +1,7 @@
 ---
 layout: about
 title: 关于我
+image：assets/images/banner/about me.jpg
 ---
 
 ### 自我介绍
