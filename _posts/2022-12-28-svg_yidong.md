@@ -1,10 +1,12 @@
 ---
 layout: page
 title: 移动爱心
-date: 2022-12-25
+date: 2022-12-28
 excerpt_separator: "<!--more-->"
 categories:
      - svg制作
+tags:
+  - svg
 ---
 
 想看看爱心如何移动吗
