@@ -23,7 +23,7 @@ categories:
  ![](/assets/images/Study Notes/data-0.png)
  ![](/assets/images/Study Notes/data-1.png)
  ![](/assets/images/Study Notes/data-2.png)
-### 通过上面的步骤操作下来，我们可以让客户选择想要范访问的地区天气
+### 通过上面的步骤操作下来，我们可以让客户选择想要访问的地区天气
  ![](/assets/images/Study Notes/选择地区.png)
 
 ## 创建一个函数请求和风天气获取这个地址的locationid
